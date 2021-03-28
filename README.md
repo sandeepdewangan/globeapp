@@ -1,16 +1,16 @@
-# globeapp
+# Global App- Local Storage Guide - Pluralsight
 
-A new Flutter project.
+1. Shared Preferences :heavy_check_mark:
+2. Sembast :negative_squared_cross_mark:
+3. Sqflite :negative_squared_cross_mark:
+4. Moor :negative_squared_cross_mark:
+5. File Storage :negative_squared_cross_mark:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Details
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Shared Preferences - Wraps platform-specific persistent storage for simple data.
+2. Sembast - NoSQL persistent embedded file system document-based database.
+3. sqflite: Self-contained, high-reliability, embedded, SQL database engine.
+4. Moor: It is a reactive persistence library for Flutter and Dart, built ontop of sqlite.
+5. File Storage - used with path_provider and share.
